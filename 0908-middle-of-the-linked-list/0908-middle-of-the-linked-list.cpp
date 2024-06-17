@@ -1,5 +1,3 @@
-//Author: Sri Manvith Vaddeboyina
-
 /**
  * Definition for singly-linked list.
  * struct ListNode {
@@ -13,13 +11,13 @@
 class Solution {
 public:
     ListNode* middleNode(ListNode* head) {
-        ListNode* sp = head;
-        ListNode* fp = head;
-        while(fp && fp->next)
-        {
-            sp=sp->next;
-            fp=fp->next->next;
+        if(head==NULL) return NULL;
+        ListNode* slow_pointer = head;
+        ListNode* fast_pointer = head;
+        while(fast_pointer && fast_pointer->next){
+            slow_pointer = slow_pointer->next;
+            fast_pointer = fast_pointer->next->next;
         }
-        return sp;
+        return slow_pointer;
     }
 };
