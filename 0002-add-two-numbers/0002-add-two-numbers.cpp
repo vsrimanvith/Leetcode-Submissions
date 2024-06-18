@@ -30,8 +30,7 @@ public:
             }
             sum+=carry;
             carry=sum/10;
-            ListNode* nextnode = new ListNode(sum%10);
-            temp->next = nextnode;
+            temp->next = new ListNode(sum%10);
             temp=temp->next;
         }
         return l3->next;
