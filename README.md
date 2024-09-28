@@ -26,5 +26,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/1894-merge-strings-alternately) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
