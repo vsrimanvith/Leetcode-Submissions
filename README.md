@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0268-missing-number) |
+| [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0242-valid-anagram) |
 | [1894-merge-strings-alternately](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/1894-merge-strings-alternately) |
+| [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 ## Stack
 |  |
 | ------- |
