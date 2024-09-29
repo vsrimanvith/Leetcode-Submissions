@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0242-valid-anagram) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1894-merge-strings-alternately](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/1894-merge-strings-alternately) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 ## Stack
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0349-intersection-of-two-arrays) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0920-uncommon-words-from-two-sentences) |
 ## Binary Search
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0169-majority-element) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0920-uncommon-words-from-two-sentences) |
 ## Tree
 |  |
 | ------- |
