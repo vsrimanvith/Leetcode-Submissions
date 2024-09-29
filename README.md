@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [1894-merge-strings-alternately](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/1894-merge-strings-alternately) |
 ## Sorting
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 ## Dynamic Programming
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0268-missing-number) |
