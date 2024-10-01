@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0349-intersection-of-two-arrays) |
@@ -122,12 +123,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0733-flood-fill) |
 ## Binary Tree
 |  |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0733-flood-fill) |
 ## Sliding Window
 |  |
@@ -147,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0055-jump-game) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
