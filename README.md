@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0118-pascals-triangle) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0242-valid-anagram) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1894-merge-strings-alternately](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/1894-merge-strings-alternately) |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
