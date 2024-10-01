@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0035-search-insert-position) |
+| [0055-jump-game](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -134,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
