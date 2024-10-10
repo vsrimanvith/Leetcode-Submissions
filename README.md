@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0349-intersection-of-two-arrays) |
+| [0692-top-k-frequent-words](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0692-top-k-frequent-words) |
 ## Math
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0242-valid-anagram) |
+| [0692-top-k-frequent-words](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0692-top-k-frequent-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1894-merge-strings-alternately](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/1894-merge-strings-alternately) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0349-intersection-of-two-arrays) |
+| [0692-top-k-frequent-words](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0692-top-k-frequent-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0920-uncommon-words-from-two-sentences) |
 ## Binary Search
 |  |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0169-majority-element) |
+| [0692-top-k-frequent-words](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0692-top-k-frequent-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0920-uncommon-words-from-two-sentences) |
 ## Tree
 |  |
@@ -168,4 +172,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0146-lru-cache) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0692-top-k-frequent-words) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0692-top-k-frequent-words) |
+## Bucket Sort
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
