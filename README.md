@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0088-merge-sorted-array) |
+| [0160-intersection-of-two-linked-lists](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [1894-merge-strings-alternately](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/1894-merge-strings-alternately) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0146-lru-cache](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0049-group-anagrams) |
 | [0146-lru-cache](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
