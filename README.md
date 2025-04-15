@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0485-max-consecutive-ones) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0692-top-k-frequent-words](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0692-top-k-frequent-words) |
 ## Math
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0692-top-k-frequent-words](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0692-top-k-frequent-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -118,10 +121,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0692-top-k-frequent-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0920-uncommon-words-from-two-sentences) |
 ## Tree
@@ -182,9 +187,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0692-top-k-frequent-words) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
