@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0045-jump-game-ii) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0055-jump-game) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vsrimanvith/Leetcode-Submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
